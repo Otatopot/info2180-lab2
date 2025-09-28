@@ -69,6 +69,7 @@ footer {
 }
 
 footer p {
+    padding-top: 10px;
     margin-left: 10vw;
     color: #FFFFFF;
 }
@@ -111,12 +112,14 @@ section h3 {
 
 #about {
     color: #000000;
+    padding-top: 5px;
 }
 
 #about-sect {
     background-color: #E2E8F0;
     padding-left: 5px;
     padding-right: 5px;
+    padding-bottom: 5px;
 }
 
 li a {
